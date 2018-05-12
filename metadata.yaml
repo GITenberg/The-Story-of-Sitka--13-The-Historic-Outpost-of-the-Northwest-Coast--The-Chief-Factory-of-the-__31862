@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35520'
     url: http://www.gutenberg.org/2009/agents/35520
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31862#The-Story-of-Sitka--13-The-Historic-Outpost-of-the-Northwest-Coast--The-Chief-Factory-of-the-_
 gutenberg_issued: '2010-04-02'
 gutenberg_type: Text
 identifiers:
