@@ -1,0 +1,29 @@
+_repo: The-Story-of-Sitka--13-The-Historic-Outpost-of-the-Northwest-Coast--The-Chief-Factory-of-the-__31862
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrews, Clarence Leroy
+    alias: Andrews, C. L. (Clarence Leroy)
+    birthdate: 1862
+    deathdate: 1948
+    gutenberg_agent_id: '35520'
+    url: http://www.gutenberg.org/2009/agents/35520
+description: ''
+gutenberg_issued: '2010-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31862'
+  lccn: '22013201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sitka (Alaska)'
+- !lcc 'F850.5'
+title: "The Story of Sitka\r\nThe Historic Outpost of the Northwest Coast; The Chief\
+  \ Factory of the Russian American Company"
+url: http://www.gutenberg.org/ebooks/31862
